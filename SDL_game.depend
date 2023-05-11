@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1680971879 source:d:\sdlgogo\sdl_game\initialize.cpp
+	<iostream>
+	<SDL.h>
+
+1680852973 source:d:\sdlgogo\sdl_game\bitmap&blitting.cpp
+
+1680930634 source:d:\sdlgogo\sdl_game\event.cpp
+
+1683742685 source:d:\sdlgogo\sdl_game\main.cpp
+	"GameManager.h"
+	"Sound.h"
+	"TextObject.h"
+	"SDL_ttf.h"
+	"EventHandle.h"
+	"GameObject.h"
+
+1683767692 d:\sdlgogo\sdl_game\gamemanager.h
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<string>
+	<SDL_mixer.h>
+
+1680974101 d:\sdlgogo\sdl_game\graphic.h
+	<SDL.h>
+	<stdio.h>
+
+1683774611 source:d:\sdlgogo\sdl_game\gamemanager.cpp
+	"GameManager.h"
+	"SpaceShip.h"
+	"TextureManager.h"
+	"Transform.h"
+	"SpaceShip.h"
+	"EventHandle.h"
+	"Chicken.h"
+	"Bullet.h"
+	"BackGround.h"
+	"Collision.h"
+	"Sound.h"
+	"Heart.h"
+	"TextObject.h"
+	"Egg.h"
+	<iostream>
+	<vector>
+
+1681794834 source:d:\sdlgogo\sdl_game\graphic.cpp
+	"Graphic.h"
+
+1683768358 source:d:\sdlgogo\sdl_game\texturemanager.cpp
+	"TextureManager.h"
+	"GameManager.h"
+	"TextObject.h"
+	<ostream>
+
+1683729777 d:\sdlgogo\sdl_game\texturemanager.h
+	<bits/stdc++.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	<bits/stdc++.h>
+
+1683772648 d:\sdlgogo\sdl_game\transform.h
+	"Vector 2D.h"
+	"SDL.h"
+
+1682925971 d:\sdlgogo\sdl_game\vector 2d.h
+	<bits/stdc++.h>
+
+1683730825 d:\sdlgogo\sdl_game\spaceship.h
+	"Character.h"
+	"SDL.h"
+
+1683730825 d:\sdlgogo\sdl_game\character.h
+	"GameObject.h"
+
+1683730825 d:\sdlgogo\sdl_game\gameobject.h
+	"InterfaceOject.h"
+	"Transform.h"
+	"SDL.h"
+
+1681905308 d:\sdlgogo\sdl_game\interfaceoject.h
+	<bits/stdc++.h>
+
+1683730825 source:d:\sdlgogo\sdl_game\spaceship.cpp
+	"SpaceShip.h"
+	"TextureManager.h"
+	"EventHandle.h"
+	"SDL.h"
+	"Bullet.h"
+	"GameManager.h"
+	"Chicken.h"
+	<vector>
+	<ostream>
+
+1681924565 source:d:\sdlgogo\sdl_game\animation.cpp
+	"Animation.h"
+	"TextureManager.h"
+
+1681924565 d:\sdlgogo\sdl_game\animation.h
+	"SDL.h"
+	<bits/stdc++.h>
+
+1683725128 d:\sdlgogo\sdl_game\eventhandle.h
+	"SDL.h"
+	"Vector 2D.h"
+
+1683695806 source:d:\sdlgogo\sdl_game\eventhandle.cpp
+	"EventHandle.h"
+	"GameManager.h"
+	"GameObject.h"
+	"SpaceShip.h"
+	"TextureManager.h"
+	"Bullet.h"
+	<ostream>
+
+1683773100 source:d:\sdlgogo\sdl_game\chicken.cpp
+	"Chicken.h"
+	"TextureManager.h"
+	"GameManager.h"
+	"EventHandle.h"
+	"SDL.h"
+
+1683770937 d:\sdlgogo\sdl_game\chicken.h
+	"Character.h"
+	"SDL.h"
+
+1683771385 source:d:\sdlgogo\sdl_game\egg.cpp
+	"Egg.h"
+	"TextureManager.h"
+
+1683771385 d:\sdlgogo\sdl_game\egg.h
+	"Character.h"
+
+1682500711 source:d:\sdlgogo\sdl_game\timer.cpp
+	"Timer.h"
+	"GameManager.h"
+
+1682500643 d:\sdlgogo\sdl_game\timer.h
+
+1683730825 source:d:\sdlgogo\sdl_game\bullet.cpp
+	"Bullet.h"
+	"TextureManager.h"
+
+1683730825 d:\sdlgogo\sdl_game\bullet.h
+	"Character.h"
+	"SDL.h"
+
+1683730840 d:\sdlgogo\sdl_game\background.h
+	"Character.h"
+
+1683730825 source:d:\sdlgogo\sdl_game\background.cpp
+	"BackGround.h"
+	"TextureManager.h"
+	"SDL.h"
+
+1683730825 d:\sdlgogo\sdl_game\collision.h
+	"SDL.h"
+	"TextureManager.h"
+	"SpaceShip.h"
+	"Chicken.h"
+	"Character.h"
+
+1683730825 source:d:\sdlgogo\sdl_game\collision.cpp
+	"Collision.h"
+	"TextureManager.h"
+	<ostream>
+	"SDL.h"
+
+1683041837 source:d:\sdlgogo\sdl_game\sound.cpp
+	"Sound.h"
+	<ostream>
+
+1683035692 d:\sdlgogo\sdl_game\sound.h
+	<map>
+	<string>
+	<iostream>
+	"SDL_mixer.h"
+
+1683775674 source:d:\sdlgogo\sdl_game\heart.cpp
+	"Heart.h"
+	"TextureManager.h"
+	"GameManager.h"
+	"SDL.h"
+	"TextObject.h"
+	"SDL_ttf.h"
+
+1683775517 d:\sdlgogo\sdl_game\heart.h
+	"Character.h"
+	"SDL.h"
+	<iostream>
+
+1683768341 source:d:\sdlgogo\sdl_game\textobject.cpp
+	"TextObject.h"
+	"GameManager.h"
+	<ostream>
+
+1683723411 d:\sdlgogo\sdl_game\textobject.h
+	"Character.h"
+	"TextureManager.h"
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<ostream>
+	<string>
+
+1683190825 d:\sdlgogo\sdl_game\levels.h
+
+1683190825 source:d:\sdlgogo\sdl_game\levels.cpp
+
